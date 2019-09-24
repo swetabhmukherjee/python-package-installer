@@ -11,5 +11,5 @@ Create a `requirements.txt` file and list all the packages that needs to be inst
 3. Launch the script by using the command `./setup.sh`.
 
 # Note
-This code works with Linux and macOS only
+This code works with Linux and macOS only. For Windows, find the script [here.](https://github.com/swetabhmukherjee/python-package-installer-windows)
 
